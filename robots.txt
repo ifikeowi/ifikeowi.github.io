@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifikeowi.github.io/hTV/sitemap_index.txt
+Sitemap: https://ifikeowi.github.io/pYc/sitemap_index.txt
+Sitemap: https://ifikeowi.github.io/qEP/sitemap_index.txt
+Sitemap: https://ifikeowi.github.io/tDF/sitemap_index.txt
